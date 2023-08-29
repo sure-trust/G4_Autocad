@@ -6,10 +6,10 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2> AutoCad & Solidworks for Mechanical Engineers </h2>
+  <h2> AutoCad & Solidworks for Mechanical Engineers - G4 </h2>
 </div>
 
-Welcome to the SURE Trust G2 AutoCad & Solidworks Training repository for Mechanical Engineers. This repository serves as a central hub for all materials and resources related to the training course during the second batch of training AutoCad & Solidworks course.
+Welcome to the SURE Trust G4 AutoCad & Solidworks Training repository for Mechanical Engineers. This repository serves as a central hub for all materials and resources related to the training course during the second batch of training AutoCad & Solidworks course.
 
 ## About SURE Trust
 

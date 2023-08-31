@@ -23,7 +23,6 @@ To enroll in the AutoCad course for Mechanical Engineers, please visit the offic
 
 This repository is designed to support the G4 AutoCad & Solidworks training program for Mechanical Engineers at SURE Trust. It follows the below mentioned organization structure:
 
-- **Notes**: An archive of  notes and course materials provided by our trainer - Ravi Teja.
 - **Mini Projects**: A repository holding code files of the mini projects undertaken during the course.
 - **Final Project**: A comprehensive compilation of code files and resources of the final projects.
 - **Course Reports**: A repository containing course reports authored by students, documenting their individual progress and experiential insights.

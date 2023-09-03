@@ -6,7 +6,7 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2> Course Name </h2>
+  <h2> G4-AUTOCAD & Solidworks for Mechanical Engineers </h2>
 </div>
 
 # Course Report
@@ -23,10 +23,7 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects-1: | https://github.com/Seshunadhanju/G4_Autocad/tree/main/Mini%20Projects/Seshunadh/ass4|
-| Mini Projects-2: | https://github.com/Seshunadhanju/G4_Autocad/tree/main/Mini%20Projects/Seshunadh/ass5
-
-| Final Project-1:     | https://github.com/Seshunadhanju/G4_Autocad/tree/main/Final%20Capstone%20Project/Seshunadh/final%20project-1
-| Final Project-2:     | https://github.com/Seshunadhanju/G4_Autocad/tree/main/Final%20Capstone%20Project/Seshunadh/final-3
-|
-
+| Mini Projects-1:                          |[CLICK HERE](https://github.com/Seshunadhanju/G4_Autocad/tree/main/Mini%20Projects/Seshunadh/ass4)|
+| Mini Projects-2:                          |[CLICK HERE](https://github.com/Seshunadhanju/G4_Autocad/tree/main/Mini%20Projects/Seshunadh/ass5)|
+| Final Project-1:                          |[CLICK HERE](https://github.com/Seshunadhanju/G4_Autocad/tree/main/Final%20Capstone%20Project/Seshunadh/final%20project-1)|
+| Final Project-2:                          |[CLICK HERE](https://github.com/Seshunadhanju/G4_Autocad/tree/main/Final%20Capstone%20Project/Seshunadh/final-3)|

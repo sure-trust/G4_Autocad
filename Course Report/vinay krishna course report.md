@@ -11,9 +11,9 @@
 
 # Course Report
 
-## Name: [vinay krishna]
+## Name: vinay krishna
 
-## Qualifications: [4th year Btech pursing]
+## Qualifications: 4th year Btech pursing
 
 Welcome to the course report for the [AutoCad & Solidworks]! This README document provides an overview of the course, its mini projects and final project.
 

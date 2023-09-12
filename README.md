@@ -25,6 +25,7 @@ To enroll in the AutoCad course for Mechanical Engineers, please visit the offic
 |Ramanjaneyulu |[CLICK HERE](https://github.com/sure-trust/G4_Autocad/blob/main/Course%20Report/ramanjaneyulu.md)|
 |Seshunadh     |[CLICK HERE](https://github.com/sure-trust/G4_Autocad/blob/main/Course%20Report/Seshu.md)|
 |vinay krishna |[CLICK HERE](https://github.com/sure-trust/G4_Autocad/blob/main/Course%20Report/vinay%20krishna%20course%20report.md)|
+|Yasodha babu  |[CLICK HERE](https://github.com/sure-trust/G4_Autocad/blob/main/Course%20Report/YASODHA%20BABU.md)|
 
 ## Repository Description
 

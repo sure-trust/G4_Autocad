@@ -23,7 +23,7 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects-1:                          |[CLICK HERE](https://github.com/Seshunadhanju/G4_Autocad/tree/main/Mini%20Projects/Seshunadh/ass4)|
-| Mini Projects-2:                          |[CLICK HERE](https://github.com/Seshunadhanju/G4_Autocad/tree/main/Mini%20Projects/Seshunadh/ass5)|
-| Final Project-1:                          |[CLICK HERE](https://github.com/Seshunadhanju/G4_Autocad/tree/main/Final%20Capstone%20Project/Seshunadh/final%20project-1)|
-| Final Project-2:                          |[CLICK HERE](https://github.com/Seshunadhanju/G4_Autocad/tree/main/Final%20Capstone%20Project/Seshunadh/final-3)|
+| Mini Projects-1:                          |[CLICK HERE](https://github.com/sure-trust/G4_Autocad/tree/main/Mini%20Projects/Seshunadh/ass4)|
+| Mini Projects-2:                          |[CLICK HERE](https://github.com/sure-trust/G4_Autocad/tree/main/Mini%20Projects/Seshunadh/ass5)|
+| Final Project-1:                          |[CLICK HERE](https://github.com/sure-trust/G4_Autocad/tree/main/Final%20Capstone%20Project/Seshunadh/final%20project-1)|
+| Final Project-2:                          |[CLICK HERE](https://github.com/sure-trust/G4_Autocad/tree/main/Final%20Capstone%20Project/Seshunadh/final-3)|

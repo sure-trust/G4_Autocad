@@ -23,6 +23,6 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [This is about Belt Drive]     | [Click here]{https://github.com/Ramanjaneyulu-20/G4_Autocad/tree/main/Mini%20Projects/Ramanjaneyulu/mini-2}                         |
-| Final Project: [This is about Steam Engine]     | [click here]{https://github.com/Ramanjaneyulu-20/G4_Autocad/tree/main/Final%20Capstone%20Project/Ramanjaneyulu/major}                         |
+| Mini Projects: [This is about Belt Drive]     | [Click here](https://github.com/Ramanjaneyulu-20/G4_Autocad/tree/main/Mini%20Projects/Ramanjaneyulu/mini-2)                        |
+| Final Project: [This is about Steam Engine]     | [click here](https://github.com/Ramanjaneyulu-20/G4_Autocad/tree/main/Final%20Capstone%20Project/Ramanjaneyulu/major)                        |
 

@@ -23,6 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects : This project is about universal coupling    | [click Here ] {https://github.com/BuskaVinaykrishna17/G4_Autocad/tree/main/Mini%20Projects/Vinay%20Krishna/minor%201}                        |
-| Final Project: This project is about Steam Engine   | [Click here ]{https://github.com/BuskaVinaykrishna17/G4_Autocad/tree/main/Final%20Capstone%20Project/Vinay%20Krishna/major%20set-1/major%20parts}                         |
-
+| Mini Projects : This project is about universal coupling    | [click Here ](https://github.com/BuskaVinaykrishna17/G4_Autocad/tree/main/Mini%20Projects/Vinay%20Krishna/minor%201)  |
+| Final Project: This project is about Steam Engine   | [Click here](https://github.com/BuskaVinaykrishna17/G4_Autocad/tree/main/Final%20Capstone%20Project/Vinay%20Krishna/major%20set-1/major%20parts)                       |

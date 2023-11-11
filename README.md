@@ -17,7 +17,7 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 ## AutoCad Course Registration
 
-To enroll in the AutoCad course for Mechanical Engineers, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/136)
+To enroll in the AutoCad course for Mechanical Engineers, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses)
 
 ## Students Report
 | Student Name | Report Link |
